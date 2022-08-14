@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "dannyp.github.io"
 title = "dannypallotta"
 theme = "coder"
 languagecode = "en"
@@ -16,14 +16,14 @@ pygmentscodefencesguesssyntax = true
   description = "Danny's personal website"
   keywords = "blog,data,developer,personal"
   avatarurl = "images/avatar.png"
-  #gravatar = "john.doe@example.com"
+  gravatar = "danny.pallotta@gmail.com"
 
   favicon_32 = "images/favicon-32x32.png"
   favicon_16 = "images/favicon-16x16.png"
 
   since = 2020
 
-  enableTwemoji = true
+  enableTwemoji = false
 
   colorScheme = "auto"
   hidecolorschemetoggle = false
