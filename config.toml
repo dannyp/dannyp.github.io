@@ -34,7 +34,7 @@ pygmentscodefencesguesssyntax = true
 
 #[taxonomies]
 #  category = "categories"
-#  series = "series"
+  series = "series"
 #  tag = "tags"
 #  author = "authors"
 
@@ -56,11 +56,11 @@ pygmentscodefencesguesssyntax = true
   url = "https://www.chess.com/member/dfpl/"
 
 # Menu links
-#[[menu.main]]
+[[menu.main]]
 #  name = "Blog"
 #  weight = 1
 #  url  = "posts/"
-#[[menu.main]]
-#  name = "About"
-#  weight = 2
-#  url = "about/"
+[[menu.main]]
+  name = "Experience"
+  weight = 2
+  url = "experience/"
