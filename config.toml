@@ -15,11 +15,12 @@ pygmentscodefencesguesssyntax = true
   info = "Data Engineer and Coffee Drinker"
   description = "Danny's personal website"
   keywords = "blog,data,developer,personal"
-  avatarurl = "images/avatar.png"
-  gravatar = "danny.pallotta@gmail.com"
+  avatarurl = "images/avatar.svg"
+  #gravatar = "danny.pallotta@gmail.com"
 
   favicon_32 = "images/favicon-32x32.png"
   favicon_16 = "images/favicon-16x16.png"
+  dateFormat = "January, 2006"
 
   since = 2020
 
